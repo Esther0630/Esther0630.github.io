@@ -85,8 +85,6 @@ author:
   bio              : "Phone:17828024336"
   location         : "Shanghai"
   employer         :
-  pubmed           :
-  googlescholar    :
   email            : "xinge0630@163.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,13 +101,11 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
   vine             :
   weibo            :
   xing             :
