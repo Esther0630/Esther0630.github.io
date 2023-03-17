@@ -103,7 +103,7 @@ CET-6、Motor vehicle driver's license、Mandarin Level 2A
 
 Self Evaluation
 ------
-1. Have a complex knowledge of science and engineering, management and investment economics;
+*Have a complex knowledge of science and engineering, management and investment economics;
 
 2. Have good communication, organization and coordination skills, and students' work, internship work and project topics have be en 
 recognized;
