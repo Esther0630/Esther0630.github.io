@@ -12,55 +12,55 @@ Educational Experience
 =====
 **Dongbei University of Finance and Economics, Management Science and Engineering, Master, 2021.09-2024.01**
 
-**Major courses：**
-Complex Network Analysis、International Engineering Management、Operational Research、Econometrics、Intermediate Microeconomics、Engineering Financial Management、Contract Management、Management, etc.;
+* Major courses：Complex Network Analysis、International Engineering Management、Operational Research、Econometrics、Intermediate Microeconomics、Engineering Financial Management、Contract Management、Management, etc.;
 
 **Sichuan Agricultural University（211）, Project cost, Bachelor, 2017.09-2021.06**
 
-**Major courses：**
-Engineering project management、Project bidding、Construction organization design、House Architecture、Construction and installation engineering measurement and pricing, etc；
+* Major courses：Engineering project management、Project bidding、Construction organization design、House Architecture、Construction and installation engineering measurement and pricing, etc；
 
-**Honorary Awards：**
-Outstanding graduate cadres、Excellent member of the team、Outstanding Officer of the Practice Department of the Youth League Committee、College students "three to the countryside" summer social practice advanced individual.
+* Honorary Awards：Outstanding graduate cadres、Excellent member of the team、Outstanding Officer of the Practice Department of the Youth League Committee、College students "three to the countryside" summer social practice advanced individual.
 
 Internship Experience
 ======
 **Siemens Industrial Metaverse, VR Development Intern, 2022.12-now**
 
-**Project background：**
+* Project background：
+
 Siemens Shanghai campus was reconstructed in 3D into Mate Oculus devic es to create a virtual reality environment and enable interaction and data visualization；
 
-**Live-action 3D modeling：**
+* Live-action 3D modeling：
+
 Construction of Shanghai Siemens park, electrical cabinet, AGV, electronic compo nents 3D model; Point clouds, mesh reconstruction and model processing；
 
-**VR development：**
+* VR development：
+
 Unity3D project scene construction, AGV control motion, first and third perspective walkth rough, component interaction, visualization, etc. are imported into Oculus device development.；3D obstacle course game development；
 
-**Web-side visualization：**
+* Web-side visualization：
+
 Web-based VR model visualization, bim-gis-viewer;
 
-**Project outcomes：**
+* Project outcomes：
+
 Complete reconstruction, model processing, function realization programming, and realize the operation of electrical appliances in the laboratory through VR equipment to achieve the purpose of remote inspect ion and maintenance.
 
 Project Experience
 ======
 **Public rental housing for talents in Beijing Winter Olympic Village, 2022.05-now**
 
-Key technologies of high-quality residential multi-functional mechanical and electrical systems, intelligent construction technology, general contracting management and project technical management and project tech nology management and innovation of high-quality residential buildings in Winter Olympic Village.
+* Key technologies of high-quality residential multi-functional mechanical and electrical systems, intelligent construction technology, general contracting management and project technical management and project tech nology management and innovation of high-quality residential buildings in Winter Olympic Village.
 
-**Priorities：**
-Explore the future rental users and market of public rental housing, make targeted innovative build ing analysis, update and add smart products in the Internet environment and innovative applications.
+* Priorities：Explore the future rental users and market of public rental housing, make targeted innovative build ing analysis, update and add smart products in the Internet environment and innovative applications.
 
 **Reform of the approval system for engineering construction projects in Dalian, 2022.07-2022.11**
 
-Evaluation of the reform of the project approval system in Dalian in 2022. Technical solution of tender documents. Construction project approval system reform, overall service plan, data accuracy assurance measures.
+* Evaluation of the reform of the project approval system in Dalian in 2022. Technical solution of tender documents. Construction project approval system reform, overall service plan, data accuracy assurance measures.
 
 **Production management and optimization decision method in prefabricated buildings, 2021.09-2022.03**
 
-Logistics distribution and vehicle dispatch (VRP), C-W algorithm, prefabricated component distribution and its route optimization analysis, cost-optimized prefabricated component distribution vehicle route optimization model, case analysis and optimization analysis.
+* Logistics distribution and vehicle dispatch (VRP), C-W algorithm, prefabricated component distribution and its route optimization analysis, cost-optimized prefabricated component distribution vehicle route optimization model, case analysis and optimization analysis.
 
-**Priorities：**
-Coordinate the organization design, path model optimization, and actual case modeling of the distribution route of prefabricated components.
+* Priorities：Coordinate the organization design, path model optimization, and actual case modeling of the distribution route of prefabricated components.
 
 Campus Experience
 ------
@@ -74,39 +74,32 @@ Class group branch intelligent team building system operation, calib ration, gro
 
 Scientific Research Experience
 ------
-Through the preliminary analysis of the users and market of software products, plan and analyze the research framework of BIM technology, complete the modeling process and design, and complete the TOE Framework-based Organizational Multi-Level Analysis of BIM Technology Adoption Success: Qualitative Comparative Analysis (QCA) Method. It is currently an expert external reviewer in the SCI journal Engineering Construction and Architectural Management in the field of engineering management.
+* Through the preliminary analysis of the users and market of software products, plan and analyze the research framework of BIM technology, complete the modeling process and design, and complete the TOE Framework-based Organizational Multi-Level Analysis of BIM Technology Adoption Success: Qualitative Comparative Analysis (QCA) Method. It is currently an expert external reviewer in the SCI journal Engineering Construction and Architectural Management in the field of engineering management.
 
-By exploring the innovative problem of prefabricated component VRP, data collection, analysis and modeling were obtained to obtain feedback of the results, and the Research on vehicle routing optimization of prefabricated parts distribution based on cost optimizationwas completed after several optimization paths, which is now being translated.
+* By exploring the innovative problem of prefabricated component VRP, data collection, analysis and modeling were obtained to obtain feedback of the results, and the Research on vehicle routing optimization of prefabricated parts distribution based on cost optimizationwas completed after several optimization paths, which is now being translated.
 
 Skill Certificates
 ------
-**Data Analysis：**
-SPSS、fsQCA、Excel、python；
+* Data Analysis：SPSS、fsQCA、Excel、python；
 
-**VR Modeling：**
-Unity3d、Blender、RealityCapture 、Zbrush、CloudCompare、Meshlab、CAD；
+* VR Modeling：Unity3d、Blender、RealityCapture 、Zbrush、CloudCompare、Meshlab、CAD；
 
-**Architectural Modeling：**
-Revit、Sware BIM for 3D takeoff；
+* Architectural Modeling：Revit、Sware BIM for 3D takeoff；
 
-**Exploitation：**
-Unity3d；
+* Exploitation：Unity3d；
 
-**Office：**
-Xmind；
+* Office：Xmind；
 
-**Metered Pricing：**
-Macro list valuation expert；
+* Metered Pricing：Macro list valuation expert；
 
-**Certificate License：** 
-CET-6、Motor vehicle driver's license、Mandarin Level 2A
+* Certificate License：CET-6、Motor vehicle driver's license、Mandarin Level 2A
 
 Self Evaluation
 ------
-*Have a complex knowledge of science and engineering, management and investment economics;
+* Have a complex knowledge of science and engineering, management and investment economics;
 
-2. Have good communication, organization and coordination skills, and students' work, internship work and project topics have be en 
+* Have good communication, organization and coordination skills, and students' work, internship work and project topics have be en 
 recognized;
 
-3. Strong self-learning ability, like to think actively and innovate; Down-to-earth and steady, careful and serious, strong sense of 
+* Strong self-learning ability, like to think actively and innovate; Down-to-earth and steady, careful and serious, strong sense of 
 responsibility.
