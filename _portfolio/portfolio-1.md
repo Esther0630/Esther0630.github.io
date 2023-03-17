@@ -4,4 +4,5 @@ excerpt: "Virtual reality in Siemens Shanghai Industrial Park<br/><img src='/ima
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Siemens Shanghai campus was reconstructed in 3D into Mate Oculus devic es to create a virtual reality environment and enable interaction and data visualization.
+<br/><img src='/images/metaverse1.png'><br/><img src='/images/metaverse2.png'><br/><img src='/images/metaverse3.png'><br/><img src='/images/metaverse4.png'><br/><img src='/images/metaverse5.png'>
