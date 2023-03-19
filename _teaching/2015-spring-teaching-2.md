@@ -1,16 +1,19 @@
 ---
-title: "Production management and optimization decision method in prefabricated buildings"
+title: "Educational experience 2"
 collection: teaching
-type: "Project Experience"
+type: "Master"
 permalink: /teaching/2015-spring-teaching-1
-date: 2021.09-2022.03
+venue: "Dongbei University of Finance and Economics, Investment Engineering Management Institute"
+date: 2021.09-2024.01
 location: "Dalian, China"
 ---
-Logistics distribution and vehicle dispatch (VRP), C-W algorithm, prefabricated component distribution and its route optimization 
-analysis, cost-optimized prefabricated component distribution vehicle route optimization model, case analysis and optimization analysis.
+Major: Management Science and Engineering
+This is a description of a teaching experience. You can use markdown like any other post.
 
+Heading 1 Major courses
 ======
-Priorities：Coordinate the organization design, path model optimization, and actual case modeling of the distribution route of 
-prefabricated components.
-
+Complex Network Analysis, International Engineering Management, Econometrics, Intermediate Microeconomics, Operations Research, Engineering Financial Management, Contract Management, Management, etc
+Heading 2 Honorary Awards
+======
+Outstanding Graduate Cadre in 2021-2022 Academic Year, Outstanding Team Member in 2021
 
