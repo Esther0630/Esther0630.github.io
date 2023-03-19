@@ -12,7 +12,7 @@ Educational Experience
 =====
 **Dongbei University of Finance and Economics, Management Science and Engineering, Master, 2021.09-2024.01**
 
-* Major courses：Complex Network Analysis、International Engineering Management、Operational Research、Econometrics、Intermediate Microeconomics、Engineering Financial Management、Contract Management、Management, etc.;
+* Major courses：Complex Network Analysis、International Engineering Management、Operational Research、Econometrics、Intermediate Microeconomics、Engineering Financial Management、Contract Management、Management, etc;
 
 **Sichuan Agricultural University（211）, Project cost, Bachelor, 2017.09-2021.06**
 
