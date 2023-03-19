@@ -1,7 +1,7 @@
 ---
 title: "Public rental housing for talents in Beijing Winter Olympic Village"
 collection: teaching
-type: "Undergraduate course"
+type: "Project Experience"
 permalink: /teaching/2014-spring-teaching-1
 date: 2022.05-now
 location: "Dalian, China"
