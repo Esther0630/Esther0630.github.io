@@ -12,5 +12,7 @@ analysis, cost-optimized prefabricated component distribution vehicle route opti
 ======
 Priorities：Coordinate the organization design, path model optimization, and actual case modeling of the distribution route of 
 prefabricated components.
+<br/><img src='/images/Tec1.png'><br/><img src='/images/Tec2.png'><br/>
+
 
 
