@@ -4,7 +4,7 @@ collection: teaching
 type: "Project Experience"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Dongbei University of Finance and Economics"
-date: 2021.09-2022.03
+date: 2022
 location: "Dalian, China"
 ---
 Logistics distribution and vehicle dispatch (VRP), C-W algorithm, prefabricated component distribution and its route optimization 
