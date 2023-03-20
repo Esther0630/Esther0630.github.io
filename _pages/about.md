@@ -24,21 +24,25 @@ Internship Experience
 ======
 **Siemens Industrial Metaverse, VR Development Intern, 2022.12-now**
 
+* Project Name:
+
+Metaverse for intelligent power monitoring, maintenance and control;
+
 * Project background：
 
-Siemens Shanghai campus was reconstructed in 3D into Mate Oculus devic es to create a virtual reality environment and enable interaction and data visualization；
+Siemens Shanghai office was reconstructed in 3D into Meta Oculus to create a virtual reality environment and enable interaction and data visualization;
 
 * Live-action 3D modeling：
 
-Construction of Shanghai Siemens park, electrical cabinet, AGV, electronic compo nents 3D model; Point clouds, mesh reconstruction and model processing；
+3D modeling of Siemens Shanghai Office with different LODs(including exterior building indoor environment, electric power cabinet, AGV, electronic components);
 
 * VR development：
 
-Unity3D project scene construction, AGV control motion, first and third perspective walkth rough, component interaction, visualization, etc. are imported into Oculus device development.；3D obstacle course game development；
+Unity3D project development, AGV motion control, first and third perspective walkthrough, component interaction, visualization, etc. are imported into Oculus device development;3D obstacle course game development;
 
-* Web-side visualization：
+* Web-based visualization：
 
-Web-based VR model visualization, bim-gis-viewer;
+Cloud-based(AWS) visualization for VR models(e.g., BIM model, mesh model and point clouds) with three.js, bim-gis-view, and potreeJS;
 
 * Project outcomes：
 
@@ -66,11 +70,13 @@ Campus Experience
 ------
 **Graduate Student Union Career Guidance Department- minister, 2022.09-now**
 
-Organize and plan internship employment and public examination experience exchange meetings, push employment and internship related information to students, assist in the entry of graduate employment system, and write annual employment quality repor ts.
+* Organize and plan internship employment and public examination experience exchange meetings, push employment and internship related information to students, assist in the entry of graduate employment system, and write annual employment quality repor ts.
 
 **Management Science and Engineering Class-Secretary of the regiment branch,2021.10-now**
 
-Class group branch intelligent team building system operation, calib ration, group registration entry, group member management, organization management, etc.; Excel data analysis, etc.; Group member education review, special study meeting, special organization life meeting, and daily theme group day activities, PPT report, etc.
+* The intelligent team building system of the class group branch is operated, and Excel data analysis such as calibration, group 
+registration and entry, member management, and organization management; PPT reports such as member education review, special
+study meeting, special organization life meeting, and daily theme group day activities.
 
 Scientific Research Experience
 ------
@@ -80,19 +86,13 @@ Scientific Research Experience
 
 Skill Certificates
 ------
-* Data Analysis：SPSS、fsQCA、Excel、python；
+* Data Analysis and Collation: SPSS、fsQCA、Excel、python; Xmind;
 
-* VR Modeling：Unity3d、Blender、RealityCapture 、Zbrush、CloudCompare、Meshlab、CAD；
+* VR Modeling and Modeling: Unity3d; Blender、RealityCapture 、Zbrush、CloudCompare、Meshlab、CAD;
 
-* Architectural Modeling：Revit、Sware BIM for 3D takeoff；
+* Building Modeling and Valuation: Revit、Sware BIM for 3D takeoff; Macro list valuation expert;
 
-* Exploitation：Unity3d；
-
-* Office：Xmind；
-
-* Metered Pricing：Macro list valuation expert；
-
-* Certificate License：CET-6、Motor vehicle driver's license、Mandarin Level 2A
+* Certificate License：CET-6、Motor vehicle driver's license、Mandarin Level 2A.
 
 Self Evaluation
 ------
