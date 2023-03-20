@@ -16,5 +16,5 @@ residential buildings in Winter Olympic Village.
 
 Priorities：Explore the future rental users and market of public rental housing, make targeted innovative build ing analysis, update 
 and add smart products in the Internet environment and innovative applications.
-<br/><img src='/images/dongao1.png'><br/><img src='/images/dongao2.png'><br/><img src='/images/dongao3.png'><br/><img src='/images/dongao4.png'>
+<br/><img src='/images/dongao11.png'><br/><img src='/images/dongao22.png'><br/><img src='/images/dongao33.png'><br/><img src='/images/dongao44.png'><br/><img src='/images/dongao55.png'>
 
