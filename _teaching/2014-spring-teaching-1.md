@@ -4,7 +4,7 @@ collection: teaching
 type: "Project Experience"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Dongbei University of Finance and Economics"
-2022.05-now
+date: 2023
 location: "Dalian, China"
 ---
 
