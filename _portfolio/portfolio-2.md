@@ -1,8 +1,8 @@
 ---
-title: "bim-gis-viewer"
-excerpt: "Web visualization based on three.js <br/><img src='/images/bim-ifc 3.png'>"
+title: "Cloud-based(AWS) visualization for VR models"
+excerpt: "Cloud-based(AWS) visualization for VR models(e.g., BIM model, mesh model and point clouds) with three.js, bim-gis-view, and potreeJS<br/><img src='/images/bim-ifc 3.png'>"
 collection: portfolio
 ---
 
-Realize the web-side visualization of virtual reality environment roaming in Shanghai Siemens Industrial Park
+Realize the web-side visualization of virtual reality environment roaming in Shanghai Siemens Office.
 <br/><img src='/images/bim-ifc 1.png'><br/><img src='/images/bim-ifc 2.png'><br/><img src='/images/bim-ifc 3.png'>
