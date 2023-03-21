@@ -2,7 +2,7 @@
 title: "Production management and optimization decision method in prefabricated buildings"
 collection: Publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'Explore the VRP innovation problem of prefabricated components, collect data, analyze and model to obtain the feedback of the results, and obtain the optimal path after multiple optimizations.'
+excerpt: 'Coordinate the organization design, path model optimization, and actual case modeling of the distribution route of prefabricated components.'
 state: 'Working on'
 ---
 By exploring the innovative problem of prefabricated component VRP, data collection, analysis and modeling were obtained to obtain feedback of the results, and the Research on vehicle routing optimization of prefabricated parts distribution based on cost optimization was completed after several optimization paths, which is now being translated.
@@ -20,6 +20,4 @@ location: "Dalian, China"
 Logistics distribution and vehicle dispatch (VRP), C-W algorithm, prefabricated component distribution and its route optimization 
 analysis, cost-optimized prefabricated component distribution vehicle route optimization model, case analysis and optimization analysis.
 
-Priorities：Coordinate the organization design, path model optimization, and actual case modeling of the distribution route of 
-prefabricated components.
 <br/><img src='/images/Tec1.png'><br/><img src='/images/Tec2.png'><br/>
