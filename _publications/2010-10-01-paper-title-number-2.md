@@ -1,6 +1,6 @@
 ---
 title: "Research on vehicle routing optimization of prefabricated parts distribution based on cost optimization"
-collection: Paper
+collection: Publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'Explore the VRP innovation problem of prefabricated components, collect data, analyze and model to obtain the feedback of the results, and obtain the optimal path after multiple optimizations.'
 date: 2023-01-01
