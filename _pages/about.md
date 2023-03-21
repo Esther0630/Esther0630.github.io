@@ -103,4 +103,3 @@ recognized;
 
 * Strong self-learning ability, like to think actively and innovate; Down-to-earth and steady, careful and serious, strong sense of 
 responsibility.
-
