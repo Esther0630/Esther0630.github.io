@@ -1,6 +1,6 @@
 ---
 title: "TOE Framework-based Organizational Multi-Level Analysis of BIM Technology Adoption Success: Qualitative Comparative Analysis (QCA) Method"
-collection: Paper
+collection: Publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Through the early analysis of software product users, plan and analyze the research framework of BIM, and complete the modeling process and design.'
 date: 2022-12-01
