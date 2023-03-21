@@ -1,9 +1,9 @@
 ---
-title: "Metaverse for intelligent power monitoring, maintenance and control"
-excerpt: "Virtual reality in Siemens Shanghai Industrial Office<br/><img src='/images/metaverse5.png'>"
-collection: portfolio
+title: "TOE Framework-based Organizational Multi-Level Analysis of BIM Technology Adoption Success: Qualitative Comparative Analysis (QCA) Method"
+excerpt: "Through the early analysis of software product users, plan and analyze the research framework of BIM, and complete the modeling process and design."
+collection: papers
 ---
 
-Siemens Shanghai office was reconstructed in 3D into Meta Oculus to create a virtual reality environment and enable interaction and data visualization.
-<br/><img src='/images/metaverse1.png'><br/><img src='/images/metaverse2.png'><br/><img src='/images/metaverse3.png'><br/><img src='/images/metaverse4.png'><br/><img src='/images/metaverse5.png'>
-
+Through the preliminary analysis of the users and market of software products, plan and analyze the research framework of BIM technology, complete the modeling process and design, and complete the TOE Framework-based Organizational Multi-Level Analysis of BIM Technology Adoption Success: Qualitative Comparative Analysis (QCA) Method. It is currently an expert external reviewer in 
+the SCI journal Engineering Construction and Architectural Management in the field of engineering management.
+<br/><img src='/images/QCA1.png'><br/><img src='/images/QCA2.png'><br/><img src='/images/QCA3.png'>
