@@ -12,3 +12,4 @@ of BIM Technology Adoption Success: Qualitative Comparative Analysis (QCA) Metho
 the SCI journal Engineering Construction and Architectural Management in the field of engineering management.
 <br/><img src='/images/QCA1.png'><br/><img src='/images/QCA2.png'><br/><img src='/images/QCA3.png'>
 
+
