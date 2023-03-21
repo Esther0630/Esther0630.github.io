@@ -1,6 +1,6 @@
 ---
 title: "Metaverse for intelligent power monitoring, maintenance and control"
-excerpt: "Virtual reality in Siemens Shanghai Industrial Park<br/><img src='/images/metaverse5.png'>"
+excerpt: "Virtual reality in Siemens Shanghai Industrial Office<br/><img src='/images/metaverse5.png'>"
 collection: portfolio
 ---
 
