@@ -1,12 +1,12 @@
 # main links links
 main:   
 
-  - title: "Project"
+  - title: "Paper"
     url: /teaching/    
     
   - title: "Internship Program"
     url: /portfolio/
         
-  - title: "Paper"
+  - title: "Project"
     url: /publications/
 
