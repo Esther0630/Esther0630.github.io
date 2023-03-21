@@ -3,6 +3,7 @@ title: "Production management and optimization decision method in prefabricated 
 collection: Publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'Coordinate the organization design, path model optimization, and actual case modeling of the distribution route of prefabricated components.'
+date: 2022.07-2022.11
 venue: 'Dongbei University of Finance and Economics'
 ---
 Logistics distribution and vehicle dispatch (VRP), C-W algorithm, prefabricated component distribution and its route optimization 
