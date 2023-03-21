@@ -6,3 +6,4 @@ collection: portfolio
 
 Siemens Shanghai office was reconstructed in 3D into Meta Oculus to create a virtual reality environment and enable interaction and data visualization.
 <br/><img src='/images/metaverse1.png'><br/><img src='/images/metaverse2.png'><br/><img src='/images/metaverse3.png'><br/><img src='/images/metaverse4.png'><br/><img src='/images/metaverse5.png'>
+
