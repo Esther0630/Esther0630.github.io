@@ -6,3 +6,4 @@ collection: portfolio
 
 Realize the web-side visualization of virtual reality environment roaming in Shanghai Siemens Office.
 <br/><img src='/images/bim-ifc 1.png'><br/><img src='/images/bim-ifc 2.png'><br/><img src='/images/bim-ifc 3.png'>
+
