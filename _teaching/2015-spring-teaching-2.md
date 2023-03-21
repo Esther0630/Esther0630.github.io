@@ -1,18 +1,16 @@
 ---
-title: "Production management and optimization decision method in prefabricated buildings"
+title: "TOE Framework-based Organizational Multi-Level Analysis of BIM Technology Adoption Success: Qualitative Comparative Analysis (QCA) Method"
 collection: teaching
-type: "Project Experience"
+type: "Paper"
 permalink: /teaching/2015-spring-teaching-1
-venue: "Dongbei University of Finance and Economics"
-date: 2021.09-2022.03
+venue: "External audit at ECAM"
+date: 2022.12
 location: "Dalian, China"
 ---
-Logistics distribution and vehicle dispatch (VRP), C-W algorithm, prefabricated component distribution and its route optimization 
-analysis, cost-optimized prefabricated component distribution vehicle route optimization model, case analysis and optimization analysis.
-
-Priorities：Coordinate the organization design, path model optimization, and actual case modeling of the distribution route of 
-prefabricated components.
-<br/><img src='/images/Tec1.png'><br/><img src='/images/Tec2.png'><br/>
 
 
+
+
+Through the preliminary analysis of the users and market of software products, plan and analyze the research framework of BIM technology, complete the modeling process and design, and complete the TOE Framework-based Organizational Multi-Level Analysis of BIM Technology Adoption Success: Qualitative Comparative Analysis (QCA) Method. It is currently an expert external reviewer in the SCI journal Engineering Construction and Architectural Management in the field of engineering management.
+<br/><img src='/images/QCA1.png'><br/><img src='/images/QCA2.png'><br/><img src='/images/QCA3.png'>
 
