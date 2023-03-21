@@ -10,8 +10,6 @@ location: "Dalian, China"
 Logistics distribution and vehicle dispatch (VRP), C-W algorithm, prefabricated component distribution and its route optimization 
 analysis, cost-optimized prefabricated component distribution vehicle route optimization model, case analysis and optimization analysis.
 
-======
-
 Priorities：Coordinate the organization design, path model optimization, and actual case modeling of the distribution route of 
 prefabricated components.
 <br/><img src='/images/Tec1.png'><br/><img src='/images/Tec2.png'><br/>
