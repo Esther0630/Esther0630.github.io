@@ -7,4 +7,4 @@ project approval system reform, overall service plan, data accuracy assurance me
 date: 2022-11-01
 venue: 'Dongbei University of Finance and Economics'
 ---
-<br/><img src='/images/VRP11.png'><br/><img src='/images/VRP22.png'><br/><br/><img src='/images/VRP33.png'><br/>
+<br/><img src='/images/VRP11.png'><br/><img src='/images/VRP22.png'><br/><img src='/images/VRP33.png'><br/>
