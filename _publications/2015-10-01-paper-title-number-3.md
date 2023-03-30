@@ -1,7 +1,7 @@
 ---
 title: "Production management and optimization decision method in prefabricated buildings"
 collection: Publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'Coordinate the organization design, path model optimization, and actual case modeling of the distribution route of prefabricated components.'
 date: 2022-11-01
 venue: 'Dongbei University of Finance and Economics'
